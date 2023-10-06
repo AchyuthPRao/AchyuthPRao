@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm a 
+![image](https://github.com/AchyuthPRao/AchyuthPRao/assets/108856697/6b784483-2ce0-460d-b39f-4dc0d143e0f6)
+stack developer
+- 🌱 I’m currently learning MACHINE LEARNING
+- 🔭 I’m currently working on various MERN websites
+- 👯 I’m looking to collaborate on some AI or ML based projects
+- 📫 How to reach me: achyuthprao123@gmail.com
+- My portfolio website : https://achyuthprao.netlify.app/
+
 
 <!--
 **AchyuthPRao/AchyuthPRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
