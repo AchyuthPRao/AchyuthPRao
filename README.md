@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a 
-![image](https://github.com/AchyuthPRao/AchyuthPRao/assets/108856697/6b784483-2ce0-460d-b39f-4dc0d143e0f6)
+I'm a MERN
 stack developer
 - 🌱 I’m currently learning MACHINE LEARNING
 - 🔭 I’m currently working on various MERN websites
