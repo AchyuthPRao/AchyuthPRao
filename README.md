@@ -5,7 +5,7 @@ stack developer
 - 🔭 I’m currently working on various MERN websites
 - 👯 I’m looking to collaborate on some AI or ML based projects
 - 📫 How to reach me: achyuthprao123@gmail.com
-- My portfolio website : https://achyuthprao.netlify.app/
+- My portfolio website : [https://achyuth-resume/](https://achyuth-resume.vercel.app/)
 
 
 <!--
