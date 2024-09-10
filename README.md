@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a MERN
 stack developer
-- 🌱 I’m currently learning MACHINE LEARNING
-- 🔭 I’m currently working on various MERN websites
+- 🌱 I’m currently learning NLP
+- 🔭 I’m currently working on various MERN WebApps
 - 👯 I’m looking to collaborate on some AI or ML based projects
 - 📫 How to reach me: achyuthprao123@gmail.com
 - My portfolio website : [https://achyuth-resume/](https://achyuth-resume.vercel.app/)
